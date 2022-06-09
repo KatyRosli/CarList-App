@@ -1,0 +1,60 @@
+{
+  "carlist":[
+    {
+      "id": "baby-blue-recharge",
+      "modelName": "Blue Recharge", 
+      "colorType": "Baby Blue",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "images/babyblue.jpg"
+    },
+    {
+      "id": "fire-red-recharge",
+      "modelName": "Red Recharge", 
+      "colorType": "Fire Red",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "/images/firered.jpg"
+    },
+    {
+      "id": "glossy-white-recharge",
+      "modelName": "White Recharge", 
+      "colorType": "Glossy White",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "/images/glossywhite.jpg"
+    },
+    {
+      "id": "midnight-blue-bev",
+      "modelName": "Midnight Blue Recharge", 
+      "colorType": "Midnight Blue",
+      "modelType": "pure electric",
+      "imageUrl": "/images/midnightblue.jpg"
+    },
+    {
+      "id": "sleek-black-recharge",
+      "modelName": "Black Recharge", 
+      "colorType": "Sleek Black",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "/images/sleekblack.jpg"
+    },
+    {
+      "id": "neon-green-recharge",
+      "modelName": "Neon Green Recharge", 
+      "colorType": "Neon Green",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "/images/neongreen.jpg"
+    },
+    {
+      "id": "bright-orange-recharge",
+      "modelName": "Bright Orange Recharge", 
+      "colorType": "Bright Orange",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "/images/brightorange.jpg"
+    },
+    {
+      "id": "glamour-purple-recharge",
+      "modelName": "Glamour Purple Recharge", 
+      "colorType": "Glamour Purple",
+      "modelType": "plug-in hybrid",
+      "imageUrl": "/images/glamourpurple.jpg"
+    }
+]
+}
