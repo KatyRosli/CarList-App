@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import Car from "../src / components/car";
 
 const Carlist = () => {
   const [isLoading, setIsLoading] = useState(true);
@@ -21,7 +22,7 @@ const Carlist = () => {
   }
   return <div>{carlistData.carlist.map((item, index) => { 
       return (
-          <h4> {item.id} {item.modelName} </h4>
+          <Car key={index} item={item}/>
       )
    })}</div>;
 };
